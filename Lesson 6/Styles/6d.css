@@ -1,0 +1,18 @@
+p{
+    font-family: Montsrrat;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.title{
+    font-weight: bold;
+	font-size:40px;
+	margin-bottom: 5px;
+	margin-left: 60px;
+
+}
+
+.text{
+    font-size: 18px;
+	font-weight: 2x;
+}
